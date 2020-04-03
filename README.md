@@ -5,17 +5,12 @@
 
 Includes:
 
-UITableView
-
-UISwitch
-
-UIAlertController
-
-UISwipeActionsConfiguration
-
-UIContextualAction
-
-Task struct
+* UITableView
+* UISwitch
+* UIAlertController
+* UISwipeActionsConfiguration
+* UIContextualAction
+* Task struct
 
 
 Developed on Xcode 11
