@@ -1,7 +1,7 @@
 # iOS-ToDoList-App
 
 
-## App desenvolvido a partir de estudos indivíduais.
+#### App desenvolvido a partir de estudos indivíduais.
 
 Includes:
 
